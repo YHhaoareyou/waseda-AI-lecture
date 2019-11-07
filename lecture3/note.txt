@@ -1,0 +1,3 @@
+x = arg min f(y), y Å∏ S
+equivalent to
+x Å∏ { y Å∏ S | f(x) <= f(y) }
